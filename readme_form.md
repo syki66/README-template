@@ -1,17 +1,16 @@
-# Title
+# Project Title
 
 Description
 
-## Screenshot & Live Demo
+## Screenshots/Live Demo
 
 |img1|img2|
 |:---:|:---:|
 |![]()|![]()|
 
-## Built With
-## Usage
-## Examples
+## Tech Stack
 ## Features
+## Usage/Examples
 ## Caution
 ## How it works
 ## Structure
